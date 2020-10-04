@@ -1,0 +1,14 @@
+{
+  "name": "basquete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "serve app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
