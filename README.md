@@ -7,7 +7,7 @@ Requisitos:
 
 Front End:
 
-Dentro da pasta "client" executar "npm run build".
+Dentro da pasta "client" executar "npm install" e "npm run build", nessa ordem.
 
 Back End:
 
